@@ -1,0 +1,15 @@
+[
+    {
+        "name": "Harmanpreet Singh",
+        "age": "220",
+        "Title": "Student",
+        "Language": "python, js, typescript"
+    },
+
+    {
+        "name": "Naman",
+        "age": "22",
+        "Title": "Student",
+        "Language": "python, java, typescript"
+    }
+]
